@@ -1,3 +1,0 @@
----
-- name: deploy java j2e
-  hosts: all
